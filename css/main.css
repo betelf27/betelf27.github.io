@@ -1,34 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-      <meta charset="UTF-8">
-      <title>Homepage</title>
-      <link rel="stylesheet" href="style.css">
-    </head>
-    <body>
-      <h1 class="title">My Website</h1>
-      <img src="images/logo.png" alt="UNC Logo">
-      <table>
-        <tr>
-          <th>Title</th>
-          <th>Description</th>
-        </tr>
-        <tr>
-          <td><a href="profile.html">My Profile</a></td>
-          <td>More info about myself and my hobbies</td>
-        </tr>
-        <tr>
-          <td><a href="inspire.html">My Inspiration</a></td>
-          <td>Who my hero is and why</td>
-        </tr>
-        <tr>
-          <td><a href="amuse.html">My Amusement</a></td>
-          <td>This page is all about funny things that I've found on different websites</td>
-        </tr>
-        <tr>
-      <td><a href="superhero.html">My Superhero</a></td>
-      <td> This page is all about my favourite superhero</td>
-      </tr>
-      </table>
-    </body>
-</html>
+: root
+{
+    background-color: purple;
+}
