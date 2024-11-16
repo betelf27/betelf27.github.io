@@ -7,6 +7,7 @@ img
 {
     display: block;
     margin: auto;
+    width: 50%;
 }
 h1
 {
@@ -30,3 +31,6 @@ tr th
 {
     color: purple
 }
+a:hover {
+    text-decoration: underline;
+    color: red;
