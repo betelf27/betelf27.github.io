@@ -36,4 +36,7 @@ tr
     color: purple;
     text-align: center;
 }
-thead
+p
+{
+    text-align: center;
+}
