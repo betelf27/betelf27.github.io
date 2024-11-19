@@ -27,6 +27,7 @@ a
 ul li
 {
     color: Blue;
+    text-align: center;
 } 
 ul {
     list-style-type: square;
