@@ -17,7 +17,6 @@ h1
 h2, h3, h4, h5, h6
 {
     color: Green;
-    text-align: center;
 }
 a
 {
@@ -36,7 +35,4 @@ tr
 {
     color: purple;
 }
-p
-{
-    text-align: center;
-}
+
