@@ -23,12 +23,10 @@ a
 {
     color:  Orange;
     text-decoration: underline;
-    text-align: center;
 }
 ul li
 {
     color: Blue;
-    text-align: center;
 } 
 ul {
     list-style-type: square;
@@ -38,9 +36,5 @@ ul {
 tr 
 {
     color: purple;
-}
-p
-{
-    text-align: center;
 }
 
