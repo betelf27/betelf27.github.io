@@ -35,4 +35,11 @@ tr
 {
     color: purple;
 }
-
+td ul {
+    list-style-type: square;    
+    padding-left: 20px;        
+    margin: 0;                  
+}
+title {
+    font-family: 'Roboto', sans-serif;
+}
